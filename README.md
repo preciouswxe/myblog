@@ -1,4 +1,6 @@
 # myblog
-blog src
+blog src here !
 
-[link](http://www.freedomwxe-blog.cn/)
+---
+
+[Welcome to my blog version1](http://www.freedomwxe-blog.cn/)
